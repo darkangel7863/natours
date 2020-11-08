@@ -1,0 +1,16 @@
+// Base reset
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  background-origin: inherit;
+}
+// Default font-size and unit
+html {
+  font-size: 62.5%;
+}
+// defining box sizing
+body {
+  box-sizing: border-box;
+}
