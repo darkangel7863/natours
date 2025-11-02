@@ -52,7 +52,7 @@
     width: 100%;
 
     @include respond(tab-port) {
-      display: inline;
+      display: inline-block;
       width: 49.8%;
     }
   }

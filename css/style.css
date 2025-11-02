@@ -693,7 +693,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .popup__img {
-    display: inline;
+    display: inline-block;
     width: 49.8%;
   }
 }
